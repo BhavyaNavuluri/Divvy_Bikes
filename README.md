@@ -1,6 +1,6 @@
 # Divvy_Bikes
 
-## Citations Reffered:
+## Papers Referred:
 
 https://dl.acm.org/doi/abs/10.1145/2820783.2820837
 
